@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Diku 👋
+
+- 🌱 I’m currently working to built my skills in SQL, Python and Tableau
+- 📫 How to reach me: lamadiku@gmail.com
+- 😄 Pronouns: She/Her
+
 
 <!--
 **Lamadiku/Lamadiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
