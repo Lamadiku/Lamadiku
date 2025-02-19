@@ -1,6 +1,6 @@
 ## Hi, I'm Diku 👋
 
-Thanks for checking my GitHub! I am a Business Data Analyst with expertise in providing insights based on complex datasets using analytical tools with a background in Economics. Over the past year, I have come to enjoy learning to analyze complex datasets to gain insights. I will be utilizing GitHub space to showcase my projects and store insights. 
+Thanks for checking my GitHub! I am a Business Data Analyst with expertise in providing insights based on complex datasets using analytical tools with a background in Economics. Over the past year, I have come to enjoy learning to analyze complex datasets to gain valuable insights. I will be utilizing GitHub space to showcase my projects and store insights. 
 
 - 🌱 I’m currently working to build my skills in SQL, Python and Tableau
 - 📫 How to reach me: lamadiku@gmail.com
