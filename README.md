@@ -1,6 +1,6 @@
 ## Hi, I'm Diku 👋
 
-- 🌱 I’m currently working to built my skills in SQL, Python and Tableau
+- 🌱 I’m currently working to build my skills in SQL, Python and Tableau
 - 📫 How to reach me: lamadiku@gmail.com
 - 😄 Pronouns: She/Her
 
